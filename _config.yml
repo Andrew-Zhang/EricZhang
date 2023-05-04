@@ -7,17 +7,13 @@ google_analytics: "UA-46465113-2"
 # UI configs
 title: "Photography by Eric Zhang`"
 subtitle: "See the world through my eyes!"
-author: "Eric Zhang"
 header:
  title: "Photography"
  subtitle: "by Eric Zhang"
 footer:
  name: "Hey there, my name is Eric"
- bio: "I Andrew Zhang's brother."
+ bio: "I am currently a student at University of Wisconsin-Madison. I am studying to become a physician's assistant."
 social_urls:
-  facebook: "https://www.facebook.com/ramswaroop"
   twitter: "https://www.twitter.com/ram__patra"
   instagram: "https://www.instagram.com/ram_patra"
-  dribbble: "https://dribbble.com/rampatra"
   linkedin: "https://in.linkedin.com/in/ram-patra"
-  github: "https://www.github.com/rampatra"
